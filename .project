@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>App_10_FilterConfig</name>
+=======
+	<name>ContextVsConfig</name>
+>>>>>>> origin/main
 	<comment></comment>
 	<projects>
 	</projects>

@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="App_10_FilterConfig">
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <property name="context-root" value="App_10_FilterConfig"/>
         <property name="java-output-path" value="/App_10_FilterConfig/build/classes"/>
+=======
+    <wb-module deploy-name="ContextVsConfig">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="ContextVsConfig"/>
+        <property name="java-output-path" value="/ContextVsConfig/build/classes"/>
+>>>>>>> origin/main
     </wb-module>
 </project-modules>
